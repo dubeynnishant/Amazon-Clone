@@ -1,2 +1,12 @@
-# Amazon-Clone
-Welcome to the Amazon-Clone repository! This project is a replica of the popular e-commerce platform Amazon, built to simulate its core functionalities and provide hands-on experience in developing a feature-rich web application.
+# Amazon-Clone-01
+A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. The page is created for big screens i.e, laptops, PCs only.
+
+# Technologies:
+* HTML5
+* CSS3
+* CSS Animations
+* Javascript
+* Netlify
+
+# Live Link:
+
