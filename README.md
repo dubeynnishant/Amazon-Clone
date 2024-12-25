@@ -8,5 +8,7 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * Javascript
 * Netlify
 
-# Live Link:
-
+# Live Link: 
+<br>
+<br>
+https://nishantduey.netlify.app/
